@@ -66,7 +66,6 @@ If you use these models or resources in your research, please cite the associate
 }
 ```
 
-
 ## Acknowledgments
 
 This work is part of the "Change is Key!" research program, which aims to create computational tools to explore the evolution of language, society, and culture. The program is funded by the Riksbankens Jubileumsfond under reference number M21-0021.
