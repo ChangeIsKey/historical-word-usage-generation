@@ -51,7 +51,6 @@ These models are accessible through the Hugging Face Hub:
 ## Datasets
 - **Control Dataset:** Contains baseline examples for comparison.
 - **Generated Usages:** Includes outputs from various models such as Janus, Meta-Llama, and GPT.
-- **Historical Word Usage Examples:** Extracted from the Oxford English Dictionary (OED).
 - **Human Annotated usage-definition pairs:** [GWSD: A Graded Word Sense Disambiguation Dataset](https://zenodo.org/records/14974455)
 
 ## Citation
