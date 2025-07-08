@@ -58,11 +58,19 @@ These models are accessible through the Hugging Face Hub:
 If you use these models or resources in your research, please cite the associated paper:
 
 ```bibtex
-@article{cassotti2025,
-  title     = {Sense-Specific Historical Word Usage Generation},
-  authors    = {Pierluigi Cassotti, Nina Tahmasebi},
-  journal = {TACL},
-  year      = {2025}
+@article{10.1162/tacl_a_00761,
+    author = {Cassotti, Pierluigi and Tahmasebi, Nina},
+    title = {Sense-specific Historical Word Usage Generation},
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {13},
+    pages = {690-708},
+    year = {2025},
+    month = {07},
+    abstract = {Large-scale sense-annotated corpora are important for a range of tasks but are hard to come by. Dictionaries that record and describe the vocabulary of a language often offer a small set of real-world example sentences for each sense of a word. However, on their own, these sentences are too few to be used as diachronic sense-annotated corpora. We propose a targeted strategy for training and evaluating generative models producing historically and semantically accurate word usages given any word, sense definition, and year triple. Our results demonstrate that fine-tuned models can generate usages with the same properties as real-world example sentences from a reference dictionary. Thus the generated usages will be suitable for training and testing computational models where large-scale sense-annotated corpora are needed but currently unavailable.},
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00761},
+    url = {https://doi.org/10.1162/tacl\_a\_00761},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00761/2535111/tacl\_a\_00761.pdf},
 }
 ```
 
